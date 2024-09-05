@@ -43,8 +43,8 @@
     "@yoast/style-guide": "^0.13.0",
     "lodash": "^4.17.11",
     "prop-types": "^15.6.0",
-    "redux": "^3.7.2",
-    "styled-components": "^5.3.6"
+    "redux": "^4.0.0",
+    "styled-components": "^6.1.0"
   },
   "devDependencies": {
     "@yoast/browserslist-config": "^1.2.2",
